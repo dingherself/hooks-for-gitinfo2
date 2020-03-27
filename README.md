@@ -1,0 +1,1 @@
+# hooks-for-gitinfo2
